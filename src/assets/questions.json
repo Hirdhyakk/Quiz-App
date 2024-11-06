@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Which of the following is a JavaScript framework?",
+        "options": [
+            "Django",
+            "Angular",
+            "Spring",
+            "Laravel"
+        ],
+        "correctAnswer": "Angular",
+        "score": 10,
+        "penalty": 5
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markup Language",
+            "Hyper Transfer Markup Language",
+            "Home Tool Markup Language",
+            "HyperText Machine Language"
+        ],
+        "correctAnswer": "HyperText Markup Language",
+        "score": 5,
+        "penalty": 3
+    },
+    {
+        "question": "Which language is primarily used for Android app development?",
+        "options": [
+            "Swift",
+            "Kotlin",
+            "JavaScript",
+            "Ruby"
+        ],
+        "correctAnswer": "Kotlin",
+        "score": 15,
+        "penalty": 7
+    },
+    {
+        "question": "Which of the following is used to style HTML pages?",
+        "options": [
+            "CSS",
+            "JavaScript",
+            "PHP",
+            "SQL"
+        ],
+        "correctAnswer": "CSS",
+        "score": 8,
+        "penalty": 4
+    },
+    {
+        "question": "Which of the following is a version control system?",
+        "options": [
+            "Git",
+            "Apache",
+            "Jenkins",
+            "Docker"
+        ],
+        "correctAnswer": "Git",
+        "score": 12,
+        "penalty": 6
+    }
+]

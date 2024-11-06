@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+.custom-radio .form-check-input {
+    transform: scale(1.5); /* Increase radio button size only */
+    margin-right: 15px;
+    margin-top: -1px;
+}
