@@ -14,7 +14,7 @@ A simple **Quiz App** built with **React** that allows users to take quizzes, vi
 
 - **Frontend**: React
 - **State Management**: React's built-in hooks (useState, useEffect)
-- **Styling**: CSS (or any CSS framework you choose)
+- **Styling**: CSS (Bootstrap)
 - **Data Persistence**: Local Storage (for storing previous scores)
 
 ## Installation
