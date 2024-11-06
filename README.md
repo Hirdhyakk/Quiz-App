@@ -22,7 +22,7 @@ A simple **Quiz App** built with **React** that allows users to take quizzes, vi
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/quiz-app.git
+   git clone https://github.com/Hirdhyakk/quiz-app.git
 2. Navigate to the project directory:
 
    ```bash
